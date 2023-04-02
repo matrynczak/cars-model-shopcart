@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cars-model-shopcart/static/css/main.9f22295f.css",
-    "main.js": "/cars-model-shopcart/static/js/main.fb2b41da.js",
+    "main.js": "/cars-model-shopcart/static/js/main.02afa09e.js",
     "static/media/insignia-b.jpeg": "/cars-model-shopcart/static/media/insignia-b.bcc9b0705eed6bb7f3af.jpeg",
     "static/media/tipo-cross.jpeg": "/cars-model-shopcart/static/media/tipo-cross.b68b55d6bf66c06cb229.jpeg",
     "static/media/background.jpg": "/cars-model-shopcart/static/media/background.d71561163587fbdf18c0.jpg",
@@ -16,10 +16,10 @@
     "static/media/cart-icon.jpeg": "/cars-model-shopcart/static/media/cart-icon.befe355adf0c662b6f16.jpeg",
     "index.html": "/cars-model-shopcart/index.html",
     "main.9f22295f.css.map": "/cars-model-shopcart/static/css/main.9f22295f.css.map",
-    "main.fb2b41da.js.map": "/cars-model-shopcart/static/js/main.fb2b41da.js.map"
+    "main.02afa09e.js.map": "/cars-model-shopcart/static/js/main.02afa09e.js.map"
   },
   "entrypoints": [
     "static/css/main.9f22295f.css",
-    "static/js/main.fb2b41da.js"
+    "static/js/main.02afa09e.js"
   ]
 }
