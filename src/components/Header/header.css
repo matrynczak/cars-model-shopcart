@@ -1,0 +1,48 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5vh 0 5vh;
+    align-items: center;
+    height: 80%
+}
+
+ul {
+    list-style: none;
+}
+
+#nav-items {
+    display: flex;
+    gap: 20px;
+    padding: 0;
+}
+
+.header-container {
+    background-color: rebeccapurple;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    height: 8vh;
+}
+
+#cart-icon {
+    width: 25px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.total-cart-items {
+    font-size: small;
+    padding: 5px;
+    border: 1px solid;
+    width: 15px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: black;
+}
+
+#header-cart {
+    display: flex;
+}
