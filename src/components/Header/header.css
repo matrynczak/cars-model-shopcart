@@ -22,6 +22,8 @@ ul {
     font-size: x-large;
     font-weight: bold;
     height: 8vh;
+    position: sticky;
+    top: 0;
 }
 
 #cart-icon {
