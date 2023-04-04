@@ -41,6 +41,7 @@
   },
   "devDependencies": {
     "react-router-dom": "^6.9.0",
+    "react-test-renderer": "^18.2.0",
     "uniqid": "^5.4.0"
   }
 }

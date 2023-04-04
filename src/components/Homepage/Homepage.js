@@ -1,5 +1,5 @@
 import './homepage.css';
-import { Link } from 'react-router-dom';
+import { Link, withRouter } from 'react-router-dom';
 
 function Homepage() {
   return (
@@ -16,10 +16,6 @@ function Homepage() {
       <Link to="/shop">
         <button id="home-shop-button">Let's shop!</button>
       </Link>
-     
-      
-   
-     
     </div>
   );
 }

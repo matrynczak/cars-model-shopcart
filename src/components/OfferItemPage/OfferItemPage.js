@@ -4,15 +4,15 @@ import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import Header from '../Header/Header';
 
-const offerList = getOffer();
+// const offerList = getOffer();
 
-function OfferItemPage({quantity, handleCart}) {
+function OfferItemPage({quantity, handleCart, offer}) {
 
   const  params = useParams();
   const [itemsAmount, setItemsAmount] = useState(0);
   const [items, setItems] = useState([]);
 
-  const selectedCar = offerList.find(car => params.id === car.id);
+  const selectedCar = offer.find(car => params.id === car.id);
 
   const handlePlusMinusButtons = (event) => {
     const buttonText = event.target.innerText;

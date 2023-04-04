@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Offer Item renders correctly 1`] = `
+<div
+  className="item-container"
+  id="1"
+>
+  <img
+    id="item-image"
+    src="tipo-cross.jpeg"
+  />
+  <div
+    className="item-description"
+  >
+    <h3
+      id="item-title"
+    >
+      test
+    </h3>
+    <p
+      id="item-attr"
+    >
+      <span
+        id="engine"
+      >
+        ▪ 
+        test-engine
+      </span>
+      <span
+        id="fuel"
+      >
+        ▪ 
+        test-fuel
+      </span>
+      <span
+        id="price"
+      >
+        ▪ 
+        test-price
+         Euro
+      </span>
+    </p>
+  </div>
+</div>
+`;
